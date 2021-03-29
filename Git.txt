@@ -1,0 +1,10 @@
+C:\Users\ashar196>mkdir git-localconfig-repo
+
+C:\Users\ashar196>cd  git-localconfig-repo
+
+C:\Users\ashar196\git-localconfig-repo>git init
+Initialized empty Git repository in C:/Users/ashar196/git-localconfig-repo/.git/
+
+C:\Users\ashar196\git-localconfig-repo>git add -A
+
+C:\Users\ashar196\git-localconfig-repo>git commit -m "first commit"
