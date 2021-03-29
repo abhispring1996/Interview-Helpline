@@ -8,3 +8,5 @@ Initialized empty Git repository in C:/Users/ashar196/git-localconfig-repo/.git/
 C:\Users\ashar196\git-localconfig-repo>git add -A
 
 C:\Users\ashar196\git-localconfig-repo>git commit -m "first commit"
+
+C:\Users\ashar196\git-localconfig-repo>git status
