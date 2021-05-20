@@ -1,0 +1,14 @@
+Msg reception -> Msg Transformation -> Msg Validation -> Accounting -> Termination
+
+Listeners                UnMarshalling        Business Rules     Process
+XML Validation			 Business Sequence    
+Entry in tmsgevt
+Depending upon the process status
+
+
+softshare -> TMSGEVT -> eproc-Listener ->xml-> XML correct -> TEPRXML (Eproc wf) Integration class-> 
+Workflow Handler Service (SOAP)-> TEPRMSG -> TMSGSTG(response to the client)
+
+MicroServices
+Treaty -> Facultative -> Settlement -> Claims -> Estimates
+-> Retrocession
